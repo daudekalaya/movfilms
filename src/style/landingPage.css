@@ -1,0 +1,39 @@
+.my-bg {
+  height: 100vh;
+  background: url("../assets/image/bg/bg.png");
+  background-size: cover;
+}
+
+.trending {
+  height: auto;
+  background: url("../assets/image/bg/pxfuel.jpg");
+  /* background-color: black; */
+  background-size: cover;
+}
+
+.anime {
+  height: auto;
+  background: url("../assets/image/bg/bgJujutsu.jpg");
+  /* background-color: black; */
+  background-size: cover;
+}
+
+.intro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.tagline {
+  color: whitesmoke;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+}
+
+.text {
+  color: #fff;
+}
